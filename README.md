@@ -46,3 +46,10 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 **Contribuidor Principal:** https://github.com/LucasCoan
 
 [![Imagem Contribuidor Principal](img/ContribuidorPrincipalRepo.jpg)](https://www.linkedin.com/in/lucas-coan-mazzuco-46728016a/)
+
+
+## Listas de Tarefas a fazer:
+
+- [x] Área de membros
+- [] Integração com outros pagamentos
+- [x] Sistema de Bônus
