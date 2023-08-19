@@ -32,3 +32,8 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 #### Imagen Local
 
 ![Logo do JavaScript](img/js.png)
+
+
+#### Imagem Externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
