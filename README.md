@@ -23,5 +23,7 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 ### Funcionalidades a Desenvolver:
 
 1. Área de membros
+    1. Login diferente para grupos de clientes
+    2. Desconto especial para grupos de clientes    
 2. Integração com outros pagamentos
 3. Tela de Produto
