@@ -51,5 +51,5 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 ## Listas de Tarefas a fazer:
 
 - [x] Área de membros
-- [] Integração com outros pagamentos
+- [ ] Integração com outros pagamentos
 - [x] Sistema de Bônus
