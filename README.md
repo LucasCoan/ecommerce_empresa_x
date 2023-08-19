@@ -10,3 +10,12 @@ Checkout, Tela de Produto, Catálogo e muito mais.
 ###### __Melhorias do Projeto__:
 
 Melhoria 1, Melhoria 2, _Melhoria 3_
+
+
+### Linguagens do Projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Python
