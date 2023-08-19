@@ -45,4 +45,4 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 
 **Contribuidor Principal:** https://github.com/LucasCoan
 
-[![Imagem Contribuidor Principal](img/ContribuidorPrincipalRepo.jpg)](https://github.com/LucasCoan)
+[![Imagem Contribuidor Principal](img/ContribuidorPrincipalRepo.jpg)](https://www.linkedin.com/in/lucas-coan-mazzuco-46728016a/)
