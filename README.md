@@ -44,3 +44,5 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 [Google](https://www.google.com.br/)
 
 **Contribuidor Principal:** https://github.com/LucasCoan
+
+[![Imagem Contribuidor Principal](https://github.com/LucasCoan)](img/ContribuidorPrincipalRepo.jpg)
