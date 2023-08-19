@@ -41,4 +41,5 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
 
 ## Links interessantes:
 
-[Google](www.google.com)
+[Google](https://www.google.com.br/)
+**Contribuidor Principal:** https://github.com/LucasCoan
