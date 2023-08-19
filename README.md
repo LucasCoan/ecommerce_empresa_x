@@ -27,3 +27,8 @@ Melhoria 1, Melhoria 2, _Melhoria 3_
     2. Desconto especial para grupos de clientes    
 2. Integração com outros pagamentos
 3. Tela de Produto
+
+
+#### Imagen Local
+
+![Logo do JavaScript](img/js.png)
