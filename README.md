@@ -4,7 +4,9 @@ Vamos criar um **e-commerce** para a empresa *Google*.
 
 ## Funcionalidades:
 
-Checkou, Tela de Produto, Catálogo e muito mais.
+Checkout, Tela de Produto, Catálogo e muito mais.
 
 
-###### Melhorias do Projeto:
+###### __Melhorias do Projeto__:
+
+Melhoria 1, Melhoria 2, Melhoria 3
